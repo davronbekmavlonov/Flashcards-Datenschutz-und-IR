@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d84010f2-c4fc-43bd-9282-0afb31073eb7" name="Changes" comment="Flashcards.db update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flashcards.db" beforeDir="false" afterPath="$PROJECT_DIR$/flashcards.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +101,7 @@
       <updated>1746877076811</updated>
       <workItem from="1746877078053" duration="2111000" />
       <workItem from="1746880586771" duration="3776000" />
+      <workItem from="1746974105478" duration="782000" />
     </task>
     <task id="LOCAL-00001" summary="Flashcards">
       <option name="closed" value="true" />
@@ -154,7 +156,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Flashcards.db update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Flashcards_Datenschutz_und_IR$flashcards_app.coverage" NAME="flashcards_app Coverage Results" MODIFIED="1746880737210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Flashcards_Datenschutz_und_IR$flashcards_app.coverage" NAME="flashcards_app Coverage Results" MODIFIED="1746974279985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Flashcards_Datenschutz_und_IR$main.coverage" NAME="main Coverage Results" MODIFIED="1746880728806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
