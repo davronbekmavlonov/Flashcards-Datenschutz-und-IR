@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d84010f2-c4fc-43bd-9282-0afb31073eb7" name="Changes" comment="Flashcards.db update" />
+    <list default="true" id="d84010f2-c4fc-43bd-9282-0afb31073eb7" name="Changes" comment="Flashcards.db update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flashcards.db" beforeDir="false" afterPath="$PROJECT_DIR$/flashcards.db" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +101,7 @@
       <updated>1746877076811</updated>
       <workItem from="1746877078053" duration="2111000" />
       <workItem from="1746880586771" duration="3776000" />
-      <workItem from="1746974105478" duration="1120000" />
+      <workItem from="1746974105478" duration="2680000" />
     </task>
     <task id="LOCAL-00001" summary="Flashcards">
       <option name="closed" value="true" />
@@ -156,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746975619296</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Flashcards.db update">
+      <option name="closed" value="true" />
+      <created>1746976478733</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1746976478733</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
